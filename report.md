@@ -1,2 +1,2 @@
 In the assignment I created a GitHib account then I initialized a Git repository and created three files: student-info.txt with my student ID and name, report.md with a brief report and index.html.
-After staging the files, I committed them. I then created a branch feature/student-details . I also updated the report and student info, and committed the changes. At the end i deployed  index.html file to GitHub Pages.
+After staging the files, I committed them. I then created a branch feature/student-details . I also updated the report and student info, and committed the changes. At the end i deployed  index.html file to GitHub Pages. 
